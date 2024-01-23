@@ -1,0 +1,2 @@
+# Metus
+ Metus is a startup website designed with HTML, CSS, and Bootstrap. This repository houses the codebase for the Metus website, showcasing the power of these technologies in creating a responsive and user-friendly interface. The website is built with a mobile-first approach, ensuring optimal viewing and interaction experience across a wide range of devices. The repository includes all the HTML files, stylesheets, and Bootstrap components used in the project. Contributions to improve the website’s design, performance, and accessibility are highly encouraged.
